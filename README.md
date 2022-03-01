@@ -41,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/vikashth1)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vikashth1)
+- Website - [Vikash Thakur](https://github.com/vikashth1)
+- Frontend Mentor - [@vikashth1](https://www.frontendmentor.io/profile/vikashth1)
